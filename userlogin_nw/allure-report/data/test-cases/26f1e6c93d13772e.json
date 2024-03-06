@@ -1,0 +1,73 @@
+{
+  "uid" : "26f1e6c93d13772e",
+  "name" : "test_login_password_error",
+  "fullName" : "post1.Testlogin#test_login_password_error",
+  "historyId" : "8f2a105b7cf01f8d832fb958f6ae6d1d",
+  "time" : {
+    "start" : 1709085516216,
+    "stop" : 1709085516234,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fbd235c6a489106d",
+      "name" : "stdout",
+      "source" : "fbd235c6a489106d.txt",
+      "type" : "text/plain",
+      "size" : 129
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "密码错误，登录失败"
+  }, {
+    "name" : "feature",
+    "value" : "用户登录"
+  }, {
+    "name" : "suite",
+    "value" : "post1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "936-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "post1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26f1e6c93d13772e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,111 @@
+{
+  "uid" : "d9f31b92eb612598",
+  "name" : "test_login_password_error",
+  "fullName" : "post1.Testlogin#test_login_password_error",
+  "historyId" : "8f2a105b7cf01f8d832fb958f6ae6d1d",
+  "time" : {
+    "start" : 1709085570370,
+    "stop" : 1709085570391,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9b02a8cc0689c9f6",
+      "name" : "stdout",
+      "source" : "9b02a8cc0689c9f6.txt",
+      "type" : "text/plain",
+      "size" : 129
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "密码错误，登录失败"
+  }, {
+    "name" : "feature",
+    "value" : "用户登录"
+  }, {
+    "name" : "suite",
+    "value" : "post1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "8216-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "post1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "26f1e6c93d13772e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085516216,
+        "stop" : 1709085516234,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "f003a163f005d086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085399756,
+        "stop" : 1709085399771,
+        "duration" : 15
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ada48c0387f1be99",
+        "reportUrl" : "http://localhost:8081/job/APIpost/2/allure/#testresult/ada48c0387f1be99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709085516216,
+          "stop" : 1709085516234,
+          "duration" : 18
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d9f31b92eb612598.json",
+  "parameterValues" : [ ]
+}

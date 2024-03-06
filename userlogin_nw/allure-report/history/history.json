@@ -1,0 +1,89 @@
+{
+  "1047ca01db95e034c24b7b9b866137fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "52cac46eb80b07e4",
+      "reportUrl" : "http://localhost:8081/job/APIpost/3/allure/#testresult/52cac46eb80b07e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085570307,
+        "stop" : 1709085570328,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "cbc37a5de26d1d61",
+      "reportUrl" : "http://localhost:8081/job/APIpost/2/allure/#testresult/cbc37a5de26d1d61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085516170,
+        "stop" : 1709085516192,
+        "duration" : 22
+      }
+    } ]
+  },
+  "8f2a105b7cf01f8d832fb958f6ae6d1d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d9f31b92eb612598",
+      "reportUrl" : "http://localhost:8081/job/APIpost/3/allure/#testresult/d9f31b92eb612598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085570370,
+        "stop" : 1709085570391,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "ada48c0387f1be99",
+      "reportUrl" : "http://localhost:8081/job/APIpost/2/allure/#testresult/ada48c0387f1be99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085516216,
+        "stop" : 1709085516234,
+        "duration" : 18
+      }
+    } ]
+  },
+  "cda0fac39acd7eb60fc1b2b588bbf705" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "1a96028cd9ddf9b2",
+      "reportUrl" : "http://localhost:8081/job/APIpost/3/allure/#testresult/1a96028cd9ddf9b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085570137,
+        "stop" : 1709085570171,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "9d8504d868103bef",
+      "reportUrl" : "http://localhost:8081/job/APIpost/2/allure/#testresult/9d8504d868103bef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709085516093,
+        "stop" : 1709085516128,
+        "duration" : 35
+      }
+    } ]
+  }
+}
